@@ -35,22 +35,22 @@ const Faq = () => {
 
 const faqdata = [
   {
-    question: "Is this template completely free to use?",
-    answer: "Yes, this template is completely free to use.",
+    question: "Apakah Editing Dapat Dilakukan Sendiri?",
+    answer: "Setelah layanan aktif, pelanggan juga mendapat akses ke panel editor website, sehingga bebas untuk melakukan editing atau penambahan konten.",
   },
   {
-    question: "Can I use it in a commercial project?",
-    answer: "Yes, this you can.",
+    question: "Apakah Mendapat Domain Gratis Disetiap Paketnya?",
+    answer: "Gratis domain ekstensi tertentu untuk 1 tahun pertama. Jika ingin menggunakan domain lain seperti .ID atau .CO.ID, maka akan dikenakan biaya sesuai ekstensi domainnya.",
   },
   {
-    question: "What is your refund policy? ",
+    question: "Berapa Batas Konten Per Halaman? ",
     answer:
-      "If you're unhappy with your purchase for any reason, email us within 90 days and we'll refund you in full, no questions asked.",
+      "Dalam satu halaman/menu dibatasi maksimal 4 halaman Microsoft Word atau PDF, di luar file gambar.",
   },
   {
-    question: "Do you offer technical support? ",
+    question: "Bagaimana Jika Website Sudah Jadi Dan Perlu Direvisi? ",
     answer:
-      "No, we don't offer technical support for free downloads. Please purchase a support plan to get 6 months of support.",
+      "Setelah website selesai diproses, maksimal 1 kali revisi. Jika masih ada revisi selanjutnya, maka akan dikenakan biaya update halaman sebesar 20.000 per halaman (belum termasuk PPN). Revisi hanya sebatas mengubah/mengurangi konten yang sudah ada. Jika menambah konten baru, maka akan dikenakan biaya update.",
   },
 ];
 
