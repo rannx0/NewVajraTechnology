@@ -23,7 +23,7 @@ const benefitOne = {
       icon: <Maintenance />,
     },
   ],
-}
+};
 
 function Seo() {
   return (
@@ -58,4 +58,4 @@ function Maintenance() {
   );
 }
 
-export {benefitOne};
+export { benefitOne };

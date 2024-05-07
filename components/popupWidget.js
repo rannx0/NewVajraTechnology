@@ -246,20 +246,6 @@ const PopupWidget = () => {
                           )}
                         </button>
                       </div>
-                      <p
-                        className="text-xs text-center text-gray-400"
-                        id="result">
-                        <span>
-                          Powered by{" "}
-                          <a
-                            href="https://Web3Forms.com"
-                            className="text-gray-600"
-                            target="_blank"
-                            rel="noopener noreferrer">
-                            Web3Forms
-                          </a>
-                        </span>
-                      </p>
                     </form>
                   )}
 
@@ -279,7 +265,7 @@ const PopupWidget = () => {
                             strokeWidth="3"
                           />
                         </svg>
-                        <h3 className="py-5 text-xl text-green-500">
+                        <h3 className="py-5 text-xl text-green-500 ">
                           Message sent successfully
                         </h3>
                         <p className="text-gray-700 md:px-3">{Message}</p>
