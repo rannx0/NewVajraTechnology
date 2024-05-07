@@ -1,10 +1,6 @@
 import React from "react";
 import { FloatingWhatsApp } from "react-floating-whatsapp";
 
-/**
- * Repo: https://github.com/awran5/react-floating-whatsapp
- */
-
 export default function App() {
   return (
     <div className="App">
